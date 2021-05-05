@@ -5,6 +5,14 @@
 	"author": "Chugong",
 	"cover": "https://i.imgur.com/ORC0eMD.png",
 	"chapters": {
+		"150": {
+			"title": "",
+			"volume": "2",
+			"groups": {
+				"WickedDragons": "/proxy/api/imgur/chapter/gCZ6F8h/"
+			},
+			"last_updated": ""
+		},
 		"149": {
 			"title": "",
 			"volume": "2",
@@ -12,7 +20,8 @@
 				"WickedDragons": "/proxy/api/imgur/chapter/keaCkTB/"
 			},
 			"last_updated": ""
-		},"148": {
+		},
+		"148": {
 			"title": "",
 			"volume": "2",
 			"groups": {
