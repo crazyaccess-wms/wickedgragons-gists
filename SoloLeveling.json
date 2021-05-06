@@ -5,6 +5,14 @@
 	"author": "Chugong",
 	"cover": "https://i.imgur.com/ORC0eMD.png",
 	"chapters": {
+		"150.1": {
+			"title": "Remastered",
+			"volume": "2",
+			"groups": {
+				"WickedDragons": "/proxy/api/imgur/chapter/vrOb46t/"
+			},
+			"last_updated": ""
+		},
 		"150": {
 			"title": "",
 			"volume": "2",
